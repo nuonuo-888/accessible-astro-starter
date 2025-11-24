@@ -6,7 +6,12 @@
 
 A ready-to-use, SEO and accessibility-focused Astro starter template. Built with modern web standards, WCAG 2.2 AA guidelines, and European Accessibility Act (EAA) compliance in mind, it provides a solid foundation for creating inclusive websites. Features Tailwind CSS 4 integration, comprehensive component library with enhanced form validation, color contrast checker, and typography with Atkinson Hyperlegible font for improved readability. Includes dynamic blog/portfolio pages with social sharing, contact forms, and full MDX support.
 
-[![Deploy to Tencent EdgeOne Pages](https://img.shields.io/badge/Deploy-Tencent%20EdgeOne%20Pages-006EFF?style=for-the-badge&logo=tencentqq&logoColor=white)](https://console.tencentcloud.com/edgeone/pages/new?template=https%3A%2F%2Fgithub.com%2Fnuonuo-888%2Faccessible-astro-starter&output-directory=dist&build-command=npm+run+build&install-command=npm+install) &nbsp;
+## Deploy
+
+[![Deploy to Tencent EdgeOne Pages](https://img.shields.io/badge/Deploy-Tencent%20EdgeOne%20Pages-006EFF?style=for-the-badge&logo=tencentqq&logoColor=white)](https://console.tencentcloud.com/edgeone/pages/new?template=https%3A%2F%2Fgithub.com%2Fnuonuo-888%2Faccessible-astro-starter&output-directory=dist&build-command=npm+run+build&install-command=npm+install)
+
+## Preview
+
 [![Preview](https://img.shields.io/badge/Preview-4ECCA3?style=for-the-badge&logo=globe&logoColor=white)](https://accessible-astro-starter.edgeone.run/)
 
 ## Our mission
