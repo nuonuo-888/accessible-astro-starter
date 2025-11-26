@@ -14,7 +14,7 @@ One-click deploy this starter to Tencent EdgeOne Pages (installs, builds, and se
 
 ## Preview
 
-[![Preview](https://img.shields.io/badge/Preview-4ECCA3?style=for-the-badge&logo=globe&logoColor=white)](https://accessible-astro-starter.edgeone.run/)
+[![Preview](https://img.shields.io/badge/Preview-4ECCA3?style=for-the-badge&logo=globe&logoColor=white)](https://accessible-astro-starter.edgeone.app/)
 
 ## Our mission
 
