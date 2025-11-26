@@ -10,7 +10,7 @@ import edgeoneAdapter from '@edgeone/astro';
 // https://astro.build/config
 export default defineConfig({
   compressHTML: true,
-  site: 'https://accessible-astro-starter.incluud.dev',
+  site: 'https://accessible-astro-starter.edgeone.app/',
   integrations: [compress(), icon(), mdx(), sitemap()],
   adapter: edgeoneAdapter(),
   vite: {
